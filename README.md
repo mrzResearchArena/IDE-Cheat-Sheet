@@ -8,6 +8,6 @@
 &nbsp;
 
 ### PyCharm-IDE-Shortcuts
-##### Delete Line: control + E
-##### Duplicate Line: control + D
-
+#### 1. Delete Line: control + E
+#### 2. Duplicate Line: control + D
+#### 3. Single-line Comment/Uncomment: control + /
