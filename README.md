@@ -4,6 +4,7 @@
 #### 3. Comments:
 ##### 3.1. Single-line comment/uncomment: control + 1
 ##### 3.2. Multi-line comment/uncomment: control + 4/5
+##### 4. Layouts: View -> Windows layouts -> Default
 
 &nbsp;
 
