@@ -1,5 +1,6 @@
 ### Spyder-IDE-Shortcuts
-#### 1. Delete line: control + D <span style="color: green"> Some green text </span>
+#### 1. Delete line: control + D 
+<span style="color: green"> Some green text </span>
 #### 2. Duplicate line: alter + shift + up arrow
 #### 3. Comments:
 ##### 3.1. Single-line comment/uncomment: control + 1
