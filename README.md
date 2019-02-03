@@ -12,7 +12,7 @@ user@machine:~$ conda update anaconda
 user@machine:~$ conda update spyder
 ```
 ##### 6. Resources:
-###### 6.1 Spyder [link_1](https://www.southampton.ac.uk/~fangohr/blog/spyder-the-scientific-python-development-environment.html)
+###### 6.1 Spyder [ [link_1](https://www.southampton.ac.uk/~fangohr/blog/spyder-the-scientific-python-development-environment.html) ]
 
 
 &nbsp;
