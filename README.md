@@ -5,6 +5,12 @@
 ##### 3.1. Single-line comment/uncomment: control + 1
 ##### 3.2. Multi-line comment/uncomment: control + 4/5
 ##### 4. Layouts: View -> Windows layouts -> Default
+##### 5. Update
+```console
+conda update conda
+conda update anaconda
+conda update spyder
+```
 
 &nbsp;
 
