@@ -20,6 +20,7 @@ user@machine:~$ conda update spyder
 
 #### 7. Inspect Element: control + I
 #### 8. Remove all variables from cells: %reset
+&nbsp;
 #### X. Resources:
 ##### X.1 Spyder [ [link_1](https://www.southampton.ac.uk/~fangohr/blog/spyder-the-scientific-python-development-environment.html) ]
 
