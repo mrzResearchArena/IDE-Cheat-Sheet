@@ -7,9 +7,9 @@
 ##### 4. Layouts: View -> Windows layouts -> Default
 ##### 5. Update
 ```console
-conda update conda
-conda update anaconda
-conda update spyder
+user@machine:~$ conda update conda
+user@machine:~$ conda update anaconda
+user@machine:~$ conda update spyder
 ```
 
 &nbsp;
