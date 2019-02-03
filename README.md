@@ -16,6 +16,8 @@ user@machine:~$ conda update spyder
 #### 6. Run Code:
 ##### 6.1 Execute the current cell: control + enter
 ##### 6.2 Execute the current cell and point cursor to the next cell: shift + enter
+&nbsp;
+
 #### 7. Inspect Element: control + I
 #### 8. Remove all variables from cells: %reset
 #### X. Resources:
