@@ -10,9 +10,7 @@
 user@machine:~$ conda update conda
 user@machine:~$ conda update anaconda
 user@machine:~$ conda update spyder
-
 ```
-
 ##### 6. Run Code:
 ###### 6.1 Execute the current cell: control + enter
 ###### 6.2 Execute the current cell and point cursor to the next cell: shift + enter
