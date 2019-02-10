@@ -45,6 +45,10 @@ user@machine:~$ conda update spyder
 ### PyCharm IDE Shortcuts
 &nbsp;
 
-#### 1. Delete line: control + E
+#### 1. Delete line: 
+``` console
+control + E
+```
+
 #### 2. Duplicate line: control + D
 #### 3. Single-line comment/uncomment: control + /
