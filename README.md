@@ -46,9 +46,14 @@ user@machine:~$ conda update spyder
 &nbsp;
 
 #### 1. Delete line: 
-``` console
+```console
 control + E
 ```
-
-#### 2. Duplicate line: control + D
-#### 3. Single-line comment/uncomment: control + /
+#### 2. Duplicate line: 
+```console
+control + D
+```
+#### 3. Single-line comment/uncomment:
+```console
+control + /
+```
