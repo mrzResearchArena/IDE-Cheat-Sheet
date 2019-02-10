@@ -1,4 +1,4 @@
-### Spyder-IDE-Shortcuts
+### Spyder IDE Shortcuts
 &nbsp;
 
 #### 1. Delete line: control + D
@@ -26,7 +26,16 @@ user@machine:~$ conda update spyder
 
 &nbsp;
 
-### PyCharm-IDE-Shortcuts
+### Jupyter Notebook IDE Shortcuts
+&nbsp;
+
+#### 1. Delete line: control + D
+#### 2. Single-line comment/uncomment: control + /
+
+
+### PyCharm IDE Shortcuts
+&nbsp;
+
 #### 1. Delete line: control + E
 #### 2. Duplicate line: control + D
 #### 3. Single-line comment/uncomment: control + /
