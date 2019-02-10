@@ -81,10 +81,13 @@ escape + D + D
 ```console
 control + enter
 ```
-
 ##### 6.2 Execute the current cell and point cursor to the next cell:
 ```console
 shift + enter
+```
+#### 7. Download a package from cell:
+``` console
+!pip install <package>
 ```
 
 &nbsp;
