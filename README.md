@@ -43,7 +43,6 @@ user@machine:~$ conda update spyder
 &nbsp;
 
 ### PyCharm IDE Shortcuts
-&nbsp;
 
 #### 1. Delete line: 
 ```console
