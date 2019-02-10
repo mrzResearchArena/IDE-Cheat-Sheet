@@ -34,6 +34,11 @@ user@machine:~$ conda update spyder
 #### 3. Add a cell above: escape + A
 #### 4. Add a cell below: escape + B
 #### 5. Delete a cell: escape + D + D
+#### 6. Run Code:
+##### 6.1 Execute the current cell: control + enter
+##### 6.2 Execute the current cell and point cursor to the next cell: shift + enter
+
+
 
 &nbsp;
 
