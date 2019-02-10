@@ -31,6 +31,9 @@ user@machine:~$ conda update spyder
 
 #### 1. Delete line: control + D
 #### 2. Single-line comment/uncomment: control + /
+#### 3. Add a cell above: escape + A
+#### 4. Add a cell below: escape + B
+#### 5. Delete a cell: escape + D + D
 
 &nbsp;
 
