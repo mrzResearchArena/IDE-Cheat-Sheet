@@ -32,6 +32,7 @@ user@machine:~$ conda update spyder
 #### 1. Delete line: control + D
 #### 2. Single-line comment/uncomment: control + /
 
+&nbsp;
 
 ### PyCharm IDE Shortcuts
 &nbsp;
