@@ -91,13 +91,9 @@ shift + enter
 ``` console
 !pip install <package>
 ```
-
 ##### 7.2 Update Package
 ``` console
-#### 7. Download a package from cell:
-``` console
 !pip install --upgrade <package>
-```
 ```
 
 &nbsp;
