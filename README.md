@@ -1,9 +1,4 @@
-### Spyder IDE Shortcuts
-&nbsp;
-
-```console
-
-```
+## Spyder IDE Shortcuts
 #### 1. Delete line: 
 ```console
 control + D
@@ -53,7 +48,7 @@ shift + enter
 ##### Spyder Resource-1: [ [link_1](https://www.southampton.ac.uk/~fangohr/blog/spyder-the-scientific-python-development-environment.html) ]
 
 
-### Jupyter Notebook IDE Shortcuts
+## Jupyter Notebook IDE Shortcuts
 
 #### 1. Delete line: control + D
 #### 2. Single-line comment/uncomment: control + /
@@ -68,7 +63,7 @@ shift + enter
 
 &nbsp;
 
-### PyCharm IDE Shortcuts
+## PyCharm IDE Shortcuts
 
 #### 1. Delete line: 
 ```console
