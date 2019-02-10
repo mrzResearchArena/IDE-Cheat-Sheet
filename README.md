@@ -85,16 +85,6 @@ control + enter
 ```console
 shift + enter
 ```
-#### 7. Download and update a package using IPython notebook:
-
-##### 7.1 Download Package
-``` console
-!pip install <package>
-```
-##### 7.2 Update Package
-``` console
-!pip install --upgrade <package>
-```
 
 &nbsp;
 
