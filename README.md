@@ -1,9 +1,9 @@
 # Spyder IDE Shortcuts
-#### 1. Delete line:
+#### 1. Delete a line:
 ```console
 control + D
 ```
-#### 2. Duplicate line:
+#### 2. Duplicate a line:
 ```console
 alter + shift + up arrow
 ```
@@ -51,7 +51,7 @@ shift + enter
 
 # Jupyter Notebook IDE Shortcuts
 
-#### 1. Delete line: 
+#### 1. Delete a line: 
 ```console
 control + D
 ```
@@ -91,11 +91,11 @@ shift + enter
 
 # PyCharm IDE Shortcuts
 
-#### 1. Delete line: 
+#### 1. Delete a line: 
 ```console
 control + E
 ```
-#### 2. Duplicate line: 
+#### 2. Duplicate a line: 
 ```console
 control + D
 ```
