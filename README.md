@@ -12,7 +12,7 @@ alter + shift + up arrow
 control + 1       (Single-line comment/uncomment)
 control + 4/5     (Multi-line comment/uncomment)
 ```
-#### 4. Run Code:
+#### 4. Run Cell:
 ```console
 control + enter   (Execute the current cell)
 shift + enter     (Execute the current cell and point cursor to the next cell) 
@@ -66,7 +66,7 @@ escape + B (Add a cell below)
 escape + D + D
 ```
 
-#### 6. Run Code:
+#### 6. Run Cell:
 ```console
 control + enter   (Execute the current cell)
 shift + enter     (Execute the current cell and point cursor to the next cell) 
