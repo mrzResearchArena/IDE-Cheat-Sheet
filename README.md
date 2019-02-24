@@ -9,13 +9,13 @@ alter + shift + up arrow
 ```
 #### 3. Comments:
 ```console
-control + 1 (Single-line comment/uncomment)
-control + 4/5 (Multi-line comment/uncomment)
+control + 1       (Single-line comment/uncomment)
+control + 4/5     (Multi-line comment/uncomment)
 ```
 #### 4. Run Code:
 ```console
-control + enter (Execute the current cell)
-shift + enter (Execute the current cell and point cursor to the next cell) 
+control + enter   (Execute the current cell)
+shift + enter     (Execute the current cell and point cursor to the next cell) 
 ```
 #### 5. Inspect Element:
 ```console
@@ -68,14 +68,14 @@ escape + D + D
 
 #### 6. Run Code:
 ```console
-control + enter (Execute the current cell)
-shift + enter (Execute the current cell and point cursor to the next cell) 
+control + enter   (Execute the current cell)
+shift + enter     (Execute the current cell and point cursor to the next cell) 
 ```
 
 #### 7. Download and update a package using IPython notebook:
 ``` console
-!pip install <package> (Download Package)
-!pip install --upgrade <package> (Update Package) 
+!pip install <package>              (Download Package)
+!pip install --upgrade <package>    (Update Package) 
 ```
 
 &nbsp;
