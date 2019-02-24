@@ -7,43 +7,37 @@ control + D
 ```console
 alter + shift + up arrow
 ```
-
 #### 3. Comments:
-##### 3.1. Single-line comment/uncomment:
 ```console
-control + 1
+control + 1 (Single-line comment/uncomment)
+control + 4/5 (Multi-line comment/uncomment)
 ```
-##### 3.2. Multi-line comment/uncomment:
+#### 4. Run Code:
 ```console
-control + 4/5
+control + enter (Execute the current cell)
+shift + enter (Execute the current cell and point cursor to the next cell) 
+```
+#### 5. Inspect Element:
+```console
+ control + I
+```
+#### 6. Remove all variables from cells:
+```console
+%reset
 ```
 
-#### 4. Layouts: View -> Windows layouts -> Default
-#### 5. Update:
+#### 7. Keep Default Layout
+```console
+Layouts: View -> Windows layouts -> Default
+```
+
+#### 8. Update:
 ```console
 user@machine:~$ conda update conda
 user@machine:~$ conda update anaconda
 user@machine:~$ conda update spyder
 ```
-#### 6. Run Code:
-##### 6.1 Execute the current cell:
-```console
-control + enter
-```
-##### 6.2 Execute the current cell and point cursor to the next cell:
-```console
-shift + enter
-```
 
-#### 7. Inspect Element:
-```console
- control + I
-```
-#### 8. Remove all variables from cells:
-
-```console
-%reset
-```
 
 ##### Spyder Resource-1: [ [link_1](https://www.southampton.ac.uk/~fangohr/blog/spyder-the-scientific-python-development-environment.html) ]
 
@@ -61,42 +55,28 @@ control + D
 control + /
 ```
 
-#### 3. Add a cell above:
+#### 3. Add Cell:
 ```console
-escape + A
+escape + A (Add a cell above)
+escape + B (Add a cell below)
 ```
 
-#### 4. Add a cell below:
-```console
-escape + B
-```
-
-#### 5. Delete a cell: 
+#### 4. Delete a cell: 
 ```console
 escape + D + D
 ```
 
 #### 6. Run Code:
-##### 6.1 Execute the current cell: 
 ```console
-control + enter
-```
-##### 6.2 Execute the current cell and point cursor to the next cell:
-```console
-shift + enter
+control + enter (Execute the current cell)
+shift + enter (Execute the current cell and point cursor to the next cell) 
 ```
 
 #### 7. Download and update a package using IPython notebook:
-
-##### 7.1 Download Package
 ``` console
-!pip install <package>
+!pip install <package> (Download Package)
+!pip install --upgrade <package> (Update Package) 
 ```
-##### 7.2 Update Package
-``` console
-!pip install --upgrade <package>
-```
-
 
 &nbsp;
 
