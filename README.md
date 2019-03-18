@@ -66,6 +66,12 @@ escape + B            (Add a cell below)
 escape + D + D
 ```
 
+#### 5. Changes Cell Type:
+```console
+escape + M            (Changes to Markdown Cell)
+escape + Y            (Changes to Code Cell)
+```
+
 #### 6. Run Cell:
 ```console
 control + enter       (Execute the current cell)
