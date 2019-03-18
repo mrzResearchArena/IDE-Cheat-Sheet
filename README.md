@@ -9,13 +9,13 @@ alter + shift + up arrow
 ```
 #### 3. Comments:
 ```console
-control + 1       (Single-line comment/uncomment)
-control + 4/5     (Multi-line comment/uncomment)
+control + 1          (Single-line comment/uncomment)
+control + 4/5        (Multi-line comment/uncomment)
 ```
 #### 4. Run Cell:
 ```console
-control + enter   (Execute the current cell)
-shift + enter     (Execute the current cell and point cursor to the next cell) 
+control + enter      (Execute the current cell)
+shift + enter        (Execute the current cell and point cursor to the next cell) 
 ```
 #### 5. Inspect Element:
 ```console
@@ -57,8 +57,8 @@ control + /
 
 #### 3. Add Cell:
 ```console
-escape + A (Add a cell above)
-escape + B (Add a cell below)
+escape + A            (Add a cell above)
+escape + B            (Add a cell below)
 ```
 
 #### 4. Delete a cell: 
@@ -68,14 +68,14 @@ escape + D + D
 
 #### 6. Run Cell:
 ```console
-control + enter   (Execute the current cell)
-shift + enter     (Execute the current cell and point cursor to the next cell) 
+control + enter       (Execute the current cell)
+shift + enter         (Execute the current cell and point cursor to the next cell) 
 ```
 
 #### 7. Download and update a package using IPython notebook:
 ``` console
-!pip install <package>              (Download Package)
-!pip install --upgrade <package>    (Update Package) 
+!pip install <package>                  (Download Package)
+!pip install --upgrade <package>        (Update Package) 
 ```
 
 &nbsp;
