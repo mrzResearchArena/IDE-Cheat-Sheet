@@ -36,6 +36,7 @@ Layouts: View -> Windows layouts -> Default
 user@machine:~$ conda update conda
 user@machine:~$ conda update anaconda
 user@machine:~$ conda update spyder
+user@machine:~$ conda update --all
 ```
 
 
