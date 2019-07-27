@@ -31,12 +31,13 @@ shift + enter        (Execute the current cell and point cursor to the next cell
 Layouts: View -> Windows layouts -> Default
 ```
 
-#### 8. Update:
+#### 8. Update / Remove:
 ```console
 user@machine:~$ conda update conda
 user@machine:~$ conda update anaconda
 user@machine:~$ conda update spyder
 user@machine:~$ conda update --all
+user@machine:~$ conda clean --yes --all
 ```
 
 
