@@ -1,4 +1,4 @@
-# Spyder IDE Shortcuts
+## Spyder IDE Shortcuts
 #### 1. Delete a line:
 ```console
 control + D
