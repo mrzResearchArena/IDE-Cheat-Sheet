@@ -1,8 +1,8 @@
 #### Conda activate and deactivate
 
 ```console
-user@machine:~$ conda activate            -->    ### activate
-(base) mrz@rafsanjani:~$ conda deactivate   -->    ### deactivate
+user@machine:~$ conda activate                 -->    ### activate
+(base) mrz@rafsanjani:~$ conda deactivate      -->    ### deactivate
 ```
 
 #### View all environment
