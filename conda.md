@@ -26,12 +26,12 @@ rafsanjani@mrz:~$ conda create -n anyName python=3.x anaconda
 
 ##### Step 2: Entering the virtual environment ####
 ```console
-rafsanjani@mrz:~$ source activate anyName
+rafsanjani@mrz:~$ conda activate anyName
 ```
 
 ##### Step 3: Detach from the virtual environment ####
 ```console
-rafsanjani@mrz:~$ source deactivate
+rafsanjani@mrz:~$ conda deactivate
 ```
 
 ##### Step 4: Remove an user from virtual environment ####
