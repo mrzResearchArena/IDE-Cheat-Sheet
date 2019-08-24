@@ -21,22 +21,29 @@ learning                 /home/user/anaconda3/envs/learning
 
 ##### Step 1: Create a virtual environment ####
 ```console
-rafsanjani@mrz:~$ conda create -n anyName python=3.x anaconda
+user@machine:~$ conda create -n anyName python=3.x anaconda
 ```
 
 ##### Step 2: Entering the virtual environment ####
 ```console
-rafsanjani@mrz:~$ conda activate anyName
+user@machine:~$ conda activate anyName
 ```
 
 ##### Step 3: Detach from the virtual environment ####
 ```console
-rafsanjani@mrz:~$ conda deactivate
+user@machine:~$ conda deactivate
 ```
 
 ##### Step 4: Remove an user from virtual environment ####
 ```console
-rafsanjani@mrz:~$ conda env remove --name anyName
+user@machine:~$ conda env remove --name anyName
+```
+
+
+##### Step 5: Rename anaconda virtual environment ####
+```console
+user@machine:~$ conda create --name newName --clone oldName
+user@machine:~$ conda remove --name oldName --all
 ```
 
 #### 4. Update / Remove:
