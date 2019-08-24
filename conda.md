@@ -7,7 +7,14 @@ user@machine:~$ conda activate                 -->    ### activate
 
 #### 2. View all environment
 ```console
-user@machine:~$ conda env list 
+user@machine:~$ conda env list
+
+# conda environments:
+#
+base                  *  /home/user/anaconda3
+deep                     /home/user/anaconda3/envs/deep
+deepPro                  /home/user/anaconda3/envs/deepPro
+learning                 /home/user/anaconda3/envs/learning
 ```
 
 #### 3. How to handle an anaconda virtual environment?
