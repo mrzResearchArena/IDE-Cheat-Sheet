@@ -1,16 +1,16 @@
-#### Conda activate and deactivate
+#### 1. Conda activate and deactivate
 
 ```console
 user@machine:~$ conda activate                 -->    ### activate
 (base) mrz@rafsanjani:~$ conda deactivate      -->    ### deactivate
 ```
 
-#### View all environment
+#### 2. View all environment
 ```console
 user@machine:~$ conda env list 
 ```
 
-#### How to handle an anaconda virtual environment?
+#### 3. How to handle an anaconda virtual environment?
 
 ##### Step 1: Create a virtual environment ####
 ```console
@@ -32,7 +32,7 @@ rafsanjani@mrz:~$ source deactivate
 rafsanjani@mrz:~$ conda env remove --name anyName
 ```
 
-#### Update / Remove:
+#### 4. Update / Remove:
 ```console
 user@machine:~$ conda update conda
 user@machine:~$ conda update anaconda
