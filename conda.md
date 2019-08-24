@@ -5,14 +5,10 @@ user@machine:~$ conda activate                 -->    ### activate
 (base) mrz@rafsanjani:~$ conda deactivate      -->    ### deactivate
 ```
 
-&nbsp;
-
 #### View all environment
 ```console
 user@machine:~$ conda env list 
 ```
-
-&nbsp;
 
 #### How to handle an anaconda virtual environment?
 
@@ -35,8 +31,6 @@ rafsanjani@mrz:~$ source deactivate
 ```console
 rafsanjani@mrz:~$ conda env remove --name anyName
 ```
-&nbsp;
-
 
 #### Update / Remove:
 ```console
