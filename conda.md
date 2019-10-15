@@ -8,6 +8,7 @@ user@machine:~$ conda activate                 -->    ### activate
 #### 2. View all environment
 ```console
 user@machine:~$ conda env list
+user@machine:~$ conda info --envs
 
 # conda environments:
 #
