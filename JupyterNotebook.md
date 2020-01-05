@@ -1,4 +1,4 @@
-# Jupyter Notebook IDE Shortcuts
+# Jupyter Notebook/Lab IDE Shortcuts
 
 #### 1. Delete a line: 
 ```console
