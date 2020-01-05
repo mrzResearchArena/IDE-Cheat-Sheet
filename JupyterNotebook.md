@@ -38,3 +38,9 @@ shift + enter         (Execute the current cell and point cursor to the next cel
 !pip install <package>                  (Download Package)
 !pip install --upgrade <package>        (Update Package) 
 ```
+
+#### 8. Hide Side Bar:
+```console
+control + B
+```
+
