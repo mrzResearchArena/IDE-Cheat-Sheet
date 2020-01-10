@@ -37,7 +37,7 @@ control + /
 ```
 
 
-#### 7. Download and update a package using IPython notebook:
+#### 7. Download and Update a Package using IPython Console:
 ``` console
 !pip install <package>                  (Download Package)
 !pip install --upgrade <package>        (Update Package) 
