@@ -1,46 +1,44 @@
 # Jupyter Notebook/Lab IDE Shortcuts
 
-#### 1. Delete a line: 
+#### 1. Run Cell:
 ```console
-control + D
+shift + enter         (Execute the current cell and point cursor to the next cell)
+control + enter       (Execute the current cell)
 ```
 
-#### 2. Single-line comment/uncomment:
-```console
-control + /
-```
-
-#### 3. Add Cell:
+#### 2. Add Cell:
 ```console
 escape + A            (Add a cell above)
 escape + B            (Add a cell below)
 ```
 
-#### 4. Delete a cell: 
+#### 3. Delete Line/Cell: 
 ```console
-escape + D + D
+control + D           (Delete Line)
+escape + D + D        (Delete Cell)
 ```
 
-#### 5. Changes Cell Type:
+#### 4. Changes Cell Type:
 ```console
 escape + M            (Changes to Markdown Cell)
 escape + Y            (Changes to Code Cell)
 ```
 
-#### 6. Run Cell:
+
+#### 5. Hide Side Bar:
 ```console
-control + enter       (Execute the current cell)
-shift + enter         (Execute the current cell and point cursor to the next cell) 
+control + B
 ```
+
+
+#### 6. Single-line comment/uncomment:
+```console
+control + /
+```
+
 
 #### 7. Download and update a package using IPython notebook:
 ``` console
 !pip install <package>                  (Download Package)
 !pip install --upgrade <package>        (Update Package) 
 ```
-
-#### 8. Hide Side Bar:
-```console
-control + B
-```
-
