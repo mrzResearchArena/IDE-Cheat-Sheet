@@ -1,4 +1,4 @@
-# Jupyter Notebook / Lab IDE Shortcuts
+# Jupyter Notebook/Lab IDE Shortcuts
 
 #### 1. Run Cell:
 ```console
