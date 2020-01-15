@@ -25,7 +25,7 @@ escape + Y            (Changes to Code Cell)
 ```
 
 
-#### 5. Hide Side Bar:
+#### 5. Hide/Unhide Side Bar:
 ```console
 control + B
 ```
