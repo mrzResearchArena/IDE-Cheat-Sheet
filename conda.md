@@ -23,6 +23,7 @@ learning                 /home/user/anaconda3/envs/learning
 ##### Step 1: Create a virtual environment ####
 ```console
 user@machine:~$ conda create -n anyName python=3.x anaconda
+user@machine:~$ conda create -n anyName python=3.x anaconda --no-default-packages
 ```
 
 ##### Step 2: Entering the virtual environment ####
