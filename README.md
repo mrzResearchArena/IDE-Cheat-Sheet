@@ -4,4 +4,4 @@
 #### 2. [ Spyder ](https://github.com/mrzResearchArena/IDE-Shortcuts/blob/master/Spyder.md)
 #### 3. [ PyCharm ](https://github.com/mrzResearchArena/IDE-Shortcuts/blob/master/PyCharm.md)
 #### 4. [ Conda Environment ](https://github.com/mrzResearchArena/IDE-Shortcuts/blob/master/conda.md)
-#### 5. [ R for Biologists ](https://github.com/mrzResearchArena/IDE-Shortcuts/blob/master/R.md)
+#### 5. [ Biology in R ](https://github.com/mrzResearchArena/IDE-Shortcuts/blob/master/R.md)
