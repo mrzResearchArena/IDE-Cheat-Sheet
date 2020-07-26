@@ -11,6 +11,8 @@
 09. Go to Beginning of a File: `eacape + [[`
 10. Go to Ending of a File: `eacape + ]]`
 
+&nbsp;
+
 > **Note-1:** Write `:` by using `escape + shift + :`. <br/>
 > **Note-2:** Write any command by using `escape` first. <br/>
 > **Note-3:** The `+` sign denotes `press one after another button`, e.g. `eacape + p` means press the `Esc` button and then `p`. <br/>
