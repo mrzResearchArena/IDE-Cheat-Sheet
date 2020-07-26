@@ -4,8 +4,8 @@
 2. Save: `:w`
 2. Quit: `:q!`
 3. Insert Text: `i`
-4. Delete Line: `d`
-5. Undo Text: `u`
+4. Delete Line: `:d` (single) or, `eacape + dd` (multiple)
+5. Undo Text  : `:u` (single) or, `eacape + uu` (multiple)
 
 
 **Note-1:** Write `:` by using `escape + shift + :`. <br/>
