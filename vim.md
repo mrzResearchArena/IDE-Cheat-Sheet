@@ -11,5 +11,5 @@
 
 
 **Note-1:** Write `:` by using `escape + shift + :`. <br/>
-**Note-2:** Write any command by using `escape` first.
-**Note-3:** The `+` sign denotes `press one after another button`, e.g. `eacape + p` means press the `Esc` button and then `p`.
+**Note-2:** Write any command by using `escape` first. <br/>
+**Note-3:** The `+` sign denotes `press one after another button`, e.g. `eacape + p` means press the `Esc` button and then `p`. <br/>
