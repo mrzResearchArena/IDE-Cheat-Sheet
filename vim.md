@@ -19,5 +19,6 @@
 &nbsp;
 
 #### References:
-[1]. [web-1](https://linuxhandbook.com/basic-vim-commands/) <br/>
-[2]. [web-2](https://www.keycdn.com/blog/vim-commands) <br/>
+[1]. [web-1: Core/Basic Commands](https://linuxhandbook.com/basic-vim-commands/) <br/>
+[2]. [web-2: All Commands](https://www.keycdn.com/blog/vim-commands) <br/>
+[3]. [web-3: Downloading vim Editor](https://phoenixnap.com/kb/how-to-install-vim-ubuntu) <br/>
