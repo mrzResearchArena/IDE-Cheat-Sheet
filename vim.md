@@ -1,4 +1,4 @@
-## vim/vi Editor
+# `vim/vi` Editor
 
 1. Quit and Save: `:wq`
 2. Save: `:w`
