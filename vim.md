@@ -1,6 +1,6 @@
 # `vim/vi` Editor:
 
-1. Quit and Save: `:wq`
+1. Save and Quit: `:wq`
 2. Save: `:w`
 2. Quit: `:q!`
 3. Insert Text: `i`
