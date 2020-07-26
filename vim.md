@@ -16,6 +16,8 @@
 **Note-2:** Write any command by using `escape` first. <br/>
 **Note-3:** The `+` sign denotes `press one after another button`, e.g. `eacape + p` means press the `Esc` button and then `p`. <br/>
 
+$nbsp;
+
 #### References:
 [1]. [web-1](https://linuxhandbook.com/basic-vim-commands/) <br/>
 [2]. [web-2](https://www.keycdn.com/blog/vim-commands) <br/>
