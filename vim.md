@@ -7,6 +7,6 @@
 5. Undo Text: `u`
 
 
-**Note-1:** Write `:` by using `Escape + Shift + :`.
+**Note-1:** Write `:` by using `escape + shift + :`.
 
-**Note-2:** Write any command by using `Escape` first.
+**Note-2:** Write any command by using `escape` first.
