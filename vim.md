@@ -4,8 +4,8 @@
 2. Save: `:w`
 3. Quit: `:q!`
 4. Insert Text: `i`
-5. Delete a Line: `:d`, or `eacape + dd`
-6. Undo Text: `:u`, or `eacape + uu`
+5. Delete a Line: `eacape + dd`, or `:d`
+6. Undo Text: `eacape + uu`, or `:u`
 7. Copy a Line: `eacape + yy`
 8. Paste a Line: `eacape + p`
 
