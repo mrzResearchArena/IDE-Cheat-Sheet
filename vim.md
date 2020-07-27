@@ -12,7 +12,7 @@
 09. Go to Beginning of a File: `eacape + [[`
 10. Go to Ending of a File: `eacape + ]]`
 11. Set Line Number: `:set number`
-12. Set Tab Space to 4: `:set tabstop=4`
+12. Set Tab Space/Shift Wifth to 4: `set ts=4 sw=4`
 
 &nbsp;
 
