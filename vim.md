@@ -6,6 +6,7 @@
 04. Insert Text: `i`
 05. Delete a Line: `eacape + dd`, or `:d`
 06. Undo Text: `eacape + uu`, or `:u`
+06. Redo Text: `eacape + control + r`
 07. Copy a Line: `eacape + yy`
 08. Paste a Line: `eacape + p`
 09. Go to Beginning of a File: `eacape + [[`
