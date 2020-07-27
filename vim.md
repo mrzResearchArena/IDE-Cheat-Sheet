@@ -12,8 +12,11 @@
 09. Go to Beginning of a File: `eacape + [[`
 10. Go to Ending of a File: `eacape + ]]`
 11. Set Line Number: `:set nu`
-11. Go to a Specific Line Number: `:n` (e.g: `:5`, `:11`) 
+11. Go to a Specific Line Number: `:n` (e.g: `:5`, `:11`)
 12. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
+
+12. Ignore Case (Before Search): `:set ic`
+12. Search Text and Replace: `:%s/oldText/newText/g`
 
 &nbsp;
 
