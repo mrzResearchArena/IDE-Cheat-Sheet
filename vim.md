@@ -17,8 +17,8 @@
 10. Go to Ending of a File: `eacape + ]]`
 11. Set Line Number: `:set nu`
 11. Go to a Specific Line Number: `:n` (e.g: `:5`, `:11`)
-11.1. Go to the First Line of the Text: `:1`, or, `:0`
-11.1. Go to the Last Line of the Text: `:$`
+11. Go to the First Line of the Text: `:1`, or, `:0`
+11. Go to the Last Line of the Text: `:$`
 
 12. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
 
