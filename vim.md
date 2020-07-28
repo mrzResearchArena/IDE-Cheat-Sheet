@@ -4,7 +4,11 @@
 02. Save: `:w`
 03. Quit: `:q!`
 04. Insert Text: `i`
+
 05. Delete a Line: `eacape + dd`, or `:d`
+05. Delete Till End of a Line: `eacape + d$`
+05. Delete Till Start of a Line: `eacape + d0`
+
 06. Undo Text: `eacape + uu`, or `:u`
 06. Redo Text: `eacape + control + r`
 07. Copy a Line: `eacape + yy`
