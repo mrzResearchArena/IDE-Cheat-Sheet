@@ -1,23 +1,23 @@
 # `vim/vi` Editor:
 
-### Open, Close, Save:
+### A. Open, Close, Save:
 1. Save and Quit: `:wq`
 1. Save: `:w`
 1. Quit: `:q!`
 1. Insert Text: `i`
 
-### Delete Option:
+### B. Delete Option:
 1. Delete a Line: `eacape + dd`, or `:d`
 1. Delete Till End of a Line: `eacape + d$`
 1. Delete Till Start of a Line: `eacape + d0`
 
-### Copy, Paste, Undo, Redo:
+### C. Copy, Paste, Undo, Redo:
 1. Undo Text: `eacape + uu`, or `:u`
 1. Redo Text: `eacape + control + r`
 1. Copy a Line: `eacape + yy`
 1. Paste a Line: `eacape + p`
 
-### Moving:
+### D. Moving:
 1. Go to Beginning of a File: `eacape + [[`
 1. Go to Ending of a File: `eacape + ]]`
 
@@ -25,11 +25,11 @@
 1. Go to the First Line of the Text: `:1`, or, `:0`
 1. Go to the Last Line of the Text: `:$`
 
-### Tab Setting:
+### E. Tab Setting:
 1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
 1. Set Line Number: `:set nu`
 
-### Pattern Search:
+### F. Pattern Search:
 1. Ignore Case (Before Search): `:set ic`
 1. Search Text and Replace: `:%s/oldText/newText/g`
 
