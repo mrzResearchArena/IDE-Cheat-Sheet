@@ -22,6 +22,7 @@
 
 12. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
 
+#### Pattern Search:
 12. Ignore Case (Before Search): `:set ic`
 12. Search Text and Replace: `:%s/oldText/newText/g`
 
