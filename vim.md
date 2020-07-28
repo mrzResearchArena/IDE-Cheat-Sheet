@@ -6,6 +6,12 @@
 1. Quit: `:q!`
 1. Insert Text: `i`
 
+### E. Parameters Setting:
+1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
+1. Set Line Number: `:set nu`
+1. Hide Line Number: `:set nu!`
+
+
 ### B. Delete Option:
 1. Delete a Line: `eacape + dd`, or `:d`
 1. Delete Till End of a Line: `eacape + d$`
@@ -24,11 +30,6 @@
 1. Go to a Specific Line Number: `:n` (e.g: `:5`, `:11`)
 1. Go to the First Line of the Text: `:1`, or, `:0`
 1. Go to the Last Line of the Text: `:$`
-
-### E. Parameters Setting:
-1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
-1. Set Line Number: `:set nu`
-1. Hide Line Number: `:set nu!`
 
 ### F. Pattern Search:
 1. Ignore Case (Before Search): `:set ic`
