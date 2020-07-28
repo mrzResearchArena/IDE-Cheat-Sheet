@@ -28,6 +28,7 @@
 ### E. Parameters Setting:
 1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
 1. Set Line Number: `:set nu`
+1. Hide Line Number: `:set nu!`
 
 ### F. Pattern Search:
 1. Ignore Case (Before Search): `:set ic`
