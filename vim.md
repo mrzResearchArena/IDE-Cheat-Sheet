@@ -17,7 +17,7 @@
 1. Copy a Line: `eacape + yy`
 1. Paste a Line: `eacape + p`
 
-### D. Moving:
+### D. Moving Cursor:
 1. Go to Beginning of a File: `eacape + [[`
 1. Go to Ending of a File: `eacape + ]]`
 
