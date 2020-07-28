@@ -24,14 +24,13 @@
 1. Paste a Line: `eacape + p`
 
 ### x. Moving Cursor:
-1. Go to Beginning of a File: `eacape + [[`
-1. Go to Ending of a File: `eacape + ]]`
+1. Go to Beginning of a File: `eacape + [[`, or `:1`, or, `:0`
+1. Go to Ending of a File: `eacape + ]]`, or, `:$`
+1. Go to a Specific Line Number: `:n` (e.g: `:5`, `:11`)
+
 1. Forward a Word: `eacape + w`
 1. Backword a Word: `eacape + b`
 
-1. Go to a Specific Line Number: `:n` (e.g: `:5`, `:11`)
-1. Go to the First Line of the Text: `:1`, or, `:0`
-1. Go to the Last Line of the Text: `:$`
 
 ### x. Pattern Search:
 1. Ignore Case (Before Search): `:set ic`
