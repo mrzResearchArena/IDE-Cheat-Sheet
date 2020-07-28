@@ -25,7 +25,7 @@
 1. Go to the First Line of the Text: `:1`, or, `:0`
 1. Go to the Last Line of the Text: `:$`
 
-### E. Tab Setting:
+### E. Parameters Setting:
 1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
 1. Set Line Number: `:set nu`
 
