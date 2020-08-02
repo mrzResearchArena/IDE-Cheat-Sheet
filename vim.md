@@ -1,5 +1,9 @@
 # `vim/vi` Editor:
 
+### x. Two Basic Modes:
+1. Insert Mode: `i`
+1. Command Mode: `escape`
+
 ### x. Open, Close, Save:
 1. Save and Quit: `:wq`
 1. Save: `:w`
