@@ -21,10 +21,10 @@
 1. Delete Till Start of a Line: `eacape + d0`
 
 ### x. Copy, Paste, Undo, Redo:
-1. Undo Text: `eacape + uu`, or `:u`
-1. Redo Text: `eacape + control + r`
 1. Copy a Line: `eacape + yy`
 1. Paste a Line: `eacape + p`
+1. Undo Text: `eacape + uu`, or `:u`
+1. Redo Text: `eacape + control + r`
 
 ### x. Moving Cursor:
 1. Go to Beginning of a File: `eacape + [[`, or `:1`, or, `:0`
