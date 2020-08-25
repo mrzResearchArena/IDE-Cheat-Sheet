@@ -1,14 +1,13 @@
 # `vim/vi` Editor:
 
 ### x. Two Basic Modes:
-1. Insert Mode: `i`
+1. Insert Mode/Insert Text: `i`
 1. Command Mode: `escape + ...`
 
 ### x. Open, Close, Save:
 1. Save and Quit: `:wq`
 1. Save: `:w`
 1. Quit: `:q!`
-1. Insert Text: `i`
 
 ### x. Parameters Setting:
 1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
