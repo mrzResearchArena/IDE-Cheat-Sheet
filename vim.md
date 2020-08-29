@@ -11,9 +11,12 @@
 
 ### x. Parameters Setting:
 1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
-1. Set Line Number: `:set nu`
-1. Hide Line Number: `:set nu!`
-1. Essential Parameters: `:set nu ic ts=4 sw=4`
+1. Line Number (Set): `:set nu`
+1. Line Number (Hide): `:set nu!`
+1. Highlight Search Results (Set): `:set hlsearch`
+1. Highlight Search Results (Hide): `:set hlsearch!`
+
+1. Essential Parameters: `:set nu ic ts=4 sw=4 hlsearch`
 
 
 ### x. Delete Option:
@@ -38,6 +41,7 @@
 
 ### x. Pattern Search:
 1. Ignore Case (Before Search): `:set ic`
+1. Search: `:/pattern` (e.g: `:/password`, `:/yes`, `:/no`)
 1. Search Text and Replace: `:%s/oldText/newText/g`
 
 &nbsp;
