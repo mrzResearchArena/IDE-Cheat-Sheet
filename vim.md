@@ -1,5 +1,7 @@
 # `vim/vi` Editor:
 
+&nbsp;
+
 ### x. Two Basic Modes:
 1. Insert Mode/Insert Text: `i`
 1. Command Mode: `escape + ...`
@@ -67,4 +69,4 @@
 > [1]. [web-1: Core/Basic Commands](https://linuxhandbook.com/basic-vim-commands/) <br/>
 > [2]. [web-2: All Commands](https://www.keycdn.com/blog/vim-commands) <br/>
 > [3]. [web-3: Downloading vim Editor](https://phoenixnap.com/kb/how-to-install-vim-ubuntu) <br/>
-> [4]. [Chris Toomey Talk on YouTuvbe](https://www.youtube.com/watch?v=wlR5gYd6um0) <br/>
+> [4]. [Chris Toomey Talk on YouTube](https://www.youtube.com/watch?v=wlR5gYd6um0) <br/>
