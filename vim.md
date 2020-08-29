@@ -4,10 +4,14 @@
 1. Insert Mode/Insert Text: `i`
 1. Command Mode: `escape + ...`
 
+&nbsp;
+
 ### x. Open, Close, Save:
 1. Save: `:w`
 1. Quit: `:q!`
 1. Save and Quit: `:wq!`
+
+&nbsp;
 
 ### x. Parameters Setting:
 1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
@@ -18,17 +22,22 @@
 
 1. Essential Parameters: `:set nu ic ts=4 sw=4 hlsearch`
 
+&nbsp;
 
 ### x. Delete Option:
 1. Delete a Line: `eacape + dd`, or `:d`
 1. Delete Till End of a Line: `eacape + d$`
 1. Delete Till Start of a Line: `eacape + d0`
 
+&nbsp;
+
 ### x. Copy, Paste, Undo, Redo:
 1. Copy a Line: `eacape + yy`
 1. Paste a Line: `eacape + p`
 1. Undo Text: `eacape + uu`, or `:u`
 1. Redo Text: `eacape + control + r`
+
+&nbsp;
 
 ### x. Moving Cursor:
 1. Go to Beginning of a File: `eacape + [[`, or `:1`, or, `:0`
@@ -38,6 +47,7 @@
 1. Forward a Word: `eacape + w`
 1. Backword a Word: `eacape + b`
 
+&nbsp;
 
 ### x. Pattern Search:
 1. Ignore Case (Before Search): `:set ic`
