@@ -1,14 +1,12 @@
 # `vim/vi` Editor:
 
-&nbsp;
+
+**Note:** Use Essential Parameters: `:set nu ic ts=4 sw=4 hlsearch`
+
 
 ### x. Two Basic Modes:
 1. Insert Mode/Insert Text: `i`
 1. Command Mode: `escape + ...`
-
-&nbsp;
-
-**Note:** Use Essential Parameters: `:set nu ic ts=4 sw=4 hlsearch`
 
 &nbsp;
 
