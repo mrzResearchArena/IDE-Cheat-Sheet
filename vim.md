@@ -1,7 +1,7 @@
 # `vim/vi` Editor:
 
 
-**Note:** Essential parameters before using vim/vi: `:set nu ic ts=4 sw=4 hlsearch`
+**Note:** Essential parameters before using **vim/vi**: `:set nu ic ts=4 sw=4 hlsearch`
 
 &nbsp;
 
