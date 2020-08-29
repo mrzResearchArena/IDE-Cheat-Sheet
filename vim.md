@@ -13,7 +13,7 @@
 1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
 1. Set Line Number: `:set nu`
 1. Hide Line Number: `:set nu!`
-1. Essential Parameters: `set nu ic ts=4 sw=4`
+1. Essential Parameters: `:set nu ic ts=4 sw=4`
 
 
 ### x. Delete Option:
