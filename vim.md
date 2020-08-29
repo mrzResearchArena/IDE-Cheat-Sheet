@@ -8,6 +8,10 @@
 
 &nbsp;
 
+**Note:** Use Essential Parameters: `:set nu ic ts=4 sw=4 hlsearch`
+
+&nbsp;
+
 ### x. Open, Close, Save:
 1. Save: `:w`
 1. Quit: `:q!`
@@ -21,8 +25,6 @@
 1. Line Number (Hide): `:set nu!`
 1. Highlight Search Results (Set): `:set hlsearch`
 1. Highlight Search Results (Hide): `:set hlsearch!`
-
-1. Essential Parameters: `:set nu ic ts=4 sw=4 hlsearch`
 
 &nbsp;
 
