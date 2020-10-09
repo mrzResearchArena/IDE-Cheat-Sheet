@@ -19,13 +19,13 @@
 &nbsp;
 
 ### x. Parameters Setting:
-1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`   # ts --> tabstop sw--> shiftwidth
-1. Line Number (Set): `:set nu`   # nu --> number 
+1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
+1. Line Number (Set): `:set nu`
 1. Line Number (Hide): `:set nu!`
 1. Highlight Search Results (Set): `:set hlsearch`
 1. Highlight Search Results (Hide): `:set hlsearch!`
 
-**Note:** ic --> ignore case; et --> expandtab
+**Note:** ic --> ignore case; et --> expandtab; ts --> tabstop; sw--> shiftwidth; nu --> number
 
 &nbsp;
 
