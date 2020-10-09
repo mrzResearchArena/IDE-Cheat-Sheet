@@ -33,11 +33,12 @@
 1. Delete a Line: `eacape + dd`, or `:d`
 1. Delete Till End of a Line: `eacape + d$`
 1. Delete Till Start of a Line: `eacape + d0`
+1. Delete Multile Line (in a range): `:4,8d` # Delete 4 to 8 lines
 
 &nbsp;
 
 ### x. Copy, Paste, Undo, Redo:
-1. Copy a Line: `eacape + yy`
+1. Copy a (single) Line: `eacape + yy`
 1. Paste a Line: `eacape + p`
 1. Undo Text: `eacape + uu`, or `:u`
 1. Redo Text: `eacape + control + r`
