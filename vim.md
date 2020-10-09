@@ -7,7 +7,7 @@
 
 ### x. Two Basic Modes:
 1. Insert Mode/Insert Text: `i`
-1. Command Mode: `escape + ...`
+1. Command Mode: `escape + : + ...`
 
 &nbsp;
 
