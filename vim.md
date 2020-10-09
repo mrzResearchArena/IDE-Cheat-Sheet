@@ -1,7 +1,7 @@
 # `vim/vi` Editor:
 
 
-**Note:** Essential parameters before using the **vim/vi**: `:set nu ic ts=4 sw=4 hlsearch`
+**Note:** Essential parameters before using the **vim/vi**: `:set nu ic et ts=4 sw=4 hlsearch`
 
 &nbsp;
 
@@ -24,8 +24,7 @@
 1. Line Number (Hide): `:set nu!`
 1. Highlight Search Results (Set): `:set hlsearch`
 1. Highlight Search Results (Hide): `:set hlsearch!`
-
-1. Set Essential Parameters: `:set ts=4 sw=4 nu et`   # ts --> tabstop; sw--> shiftwidth; et --> expandtab
+**Note:** ic --> ignore case; et --> expandtab
 
 &nbsp;
 
