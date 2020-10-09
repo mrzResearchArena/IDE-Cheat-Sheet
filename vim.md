@@ -24,6 +24,7 @@
 1. Line Number (Hide): `:set nu!`
 1. Highlight Search Results (Set): `:set hlsearch`
 1. Highlight Search Results (Hide): `:set hlsearch!`
+
 **Note:** ic --> ignore case; et --> expandtab
 
 &nbsp;
