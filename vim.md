@@ -1,7 +1,7 @@
 # `vim/vi` Editor:
 
 
-**Note:** Essential parameters before using the **vim/vi**: `:set nu ic et ts=4 sw=4 hlsearch`
+**Note:** Essential parameters before using the **vim/vi**: `:set nu ic ai et ts=4 sw=4 hlsearch`
 
 &nbsp;
 
@@ -24,6 +24,7 @@
 1. Line Number (Hide): `:set nu!`
 1. Highlight Search Results (Set): `:set hlsearch`
 1. Highlight Search Results (Hide): `:set hlsearch!`
+1. Autometic Indentation: `:set ai`
 
 **Note:** ic --> ignore case; et --> expandtab; ts --> tabstop; sw--> shiftwidth; nu --> number
 
