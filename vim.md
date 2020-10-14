@@ -14,6 +14,7 @@
 ### x. Open, Close, Save:
 1. Save: `:w`
 1. Quit: `:q`
+1. Quit by Force (without save the file): `:q!`
 1. Save and Quit: `:wq`
 
 &nbsp;
