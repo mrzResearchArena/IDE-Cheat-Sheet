@@ -1,6 +1,10 @@
 # `vim/vi` Editor:
 
 **Note:** Essential parameters before using the **vim/vi**: `:set nu ic ai et ts=4 sw=4 hlsearch`
+**Note:** ~/.vimrc
+```
+set nu ic ai et ts=4 sw=4 hlsearch
+```
 
 &nbsp;
 
