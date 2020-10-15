@@ -3,6 +3,11 @@
 **Note:** Essential parameters before using the **vim/vi**: `:set nu ic ai et ts=4 sw=4 hlsearch`
 
 **Note:** ~/.vimrc
+
+```
+user@machine~$: touch ~/.vimrc # If doesn't exist ~/.vimrc, then create it.
+```
+
 ```
 set nu ic ai et ts=4 sw=4 hlsearch
 ```
