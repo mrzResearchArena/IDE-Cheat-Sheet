@@ -1,6 +1,5 @@
 # `vim/vi` Editor:
 
-
 **Note:** Essential parameters before using the **vim/vi**: `:set nu ic ai et ts=4 sw=4 hlsearch`
 
 &nbsp;
@@ -61,6 +60,11 @@
 1. Ignore Case (Before Search): `:set ic`
 1. Search: `:/pattern` (e.g: `:/password`, `:/yes`, `:/no`)
 1. Search Text and Replace: `:%s/oldText/newText/g`
+
+&nbsp;
+
+### x. Run Programming from vi/vim:
+1. Python Script: `:!python anyName.py`
 
 &nbsp;
 
