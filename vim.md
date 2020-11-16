@@ -91,3 +91,7 @@ set nu ic ai et ts=4 sw=4 hlsearch
 > [3]. [web-3: Downloading vim Editor](https://phoenixnap.com/kb/how-to-install-vim-ubuntu) <br/>
 > [4]. [Chris Toomey Talk on YouTube](https://www.youtube.com/watch?v=wlR5gYd6um0) <br/>
 > [5]. [Default Parameters Setting](https://askubuntu.com/questions/264258/changing-vim-editor-settings) <br/>
+
+
+#### Download the vim on Ubuntu:
+> [1]. [Downloading Process](https://itsfoss.com/vim-8-release-install/)
