@@ -3,6 +3,8 @@
 - ##### Step 2: Verify the `anyName.bash` file, and match with the [SHA-256/MD-5](https://docs.anaconda.com/anaconda/install/hashes/lin-3-64/)
   ```console
   user@machine:~$ sha256sum anyName.bash
+  user@machine:~$ md5sum    anyName.bash
+  ```
 - ##### Step 3: Install
   ```console
   user@machine:~$ bash anyName.bash
