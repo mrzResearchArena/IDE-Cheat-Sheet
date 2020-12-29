@@ -1,3 +1,13 @@
+#### 0. Download Anaconda:
+- ##### Step 1: Go to the [website](https://www.anaconda.com/products/individual), and download
+- ##### Step 2: Verify the `anyName.bash` file
+  ```console
+  user@machine:~$ sha256sum anyName.bash
+- ##### Step 3: Install
+  ```console
+  user@machine:~$ bash anyName.bash
+  ```
+
 #### 1. Conda activate and deactivate
 
 ```console
