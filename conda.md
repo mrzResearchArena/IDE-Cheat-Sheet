@@ -7,7 +7,7 @@
   ```console
   user@machine:~$ bash anyName.bash
   ```
-Help: [Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/)
+- **Help:** [Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
 &nbsp;
 
