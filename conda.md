@@ -9,12 +9,16 @@
   ```
 Help: [Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
+&nbsp;
+
 #### 1. Conda activate and deactivate
 
 ```console
 user@machine:~$ conda activate                 -->    ### activate
 (base) mrz@rafsanjani:~$ conda deactivate      -->    ### deactivate
 ```
+
+&nbsp;
 
 #### 2. View all environment
 ```console
@@ -28,6 +32,8 @@ deep                     /home/user/anaconda3/envs/deep
 deepPro                  /home/user/anaconda3/envs/deepPro
 learning                 /home/user/anaconda3/envs/learning
 ```
+
+&nbsp;
 
 #### 3. How to handle an anaconda virtual environment?
 
@@ -57,6 +63,9 @@ user@machine:~$ conda env remove --name anyName
 user@machine:~$ conda create --name newName --clone oldName
 user@machine:~$ conda remove --name oldName --all
 ```
+
+&nbsp;
+
 
 #### 4. Update / Remove:
 ```console
