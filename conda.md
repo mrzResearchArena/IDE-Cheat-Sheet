@@ -7,6 +7,7 @@
   ```console
   user@machine:~$ bash anyName.bash
   ```
+Help: [Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
 #### 1. Conda activate and deactivate
 
