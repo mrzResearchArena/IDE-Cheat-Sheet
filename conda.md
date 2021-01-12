@@ -8,6 +8,7 @@
 - ##### Step 3: Install
   ```console
   user@machine:~$ bash anyName.bash
+  user@machine:~$ bash anyName.bash -u # Update a New Version
   ```
 - **Help:** [Installing on Linux](https://docs.anaconda.com/anaconda/install/linux/)
 
