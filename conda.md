@@ -43,6 +43,7 @@ learning                 /home/user/anaconda3/envs/learning
 ##### Step 1: Create a virtual environment ####
 ```console
 user@machine:~$ conda create -n anyName python=3.x anaconda   # x={6,7,8}
+# Note: Plese check it from Colab! using `!python -V`
 ```
 
 ##### Step 2: Entering the virtual environment ####
