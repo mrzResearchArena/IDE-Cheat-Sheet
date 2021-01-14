@@ -1,5 +1,12 @@
 # PyCharm IDE Shortcuts
 
+
+#### 0. Download/Remove: 
+```console
+user@machine:~$ sudo snap install pycharm-community --classic # Download
+user@machine:~$ sudo snap remove  pycharm-community           # Remove
+```
+
 #### 1. Delete a line: 
 ```console
 control + E
@@ -12,3 +19,5 @@ control + D
 ```console
 control + /
 ```
+
+
