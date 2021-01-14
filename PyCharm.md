@@ -21,5 +21,13 @@ control + /
 ```
 
 
-Find the interpretor:
-whereis python
+#### the interpretor:
+
+```console
+user@machine:~$ whereis python
+```
+
+
+
+~/anaconda/envs/<anyName>/bin/python
+~/anaconda/bin/python
