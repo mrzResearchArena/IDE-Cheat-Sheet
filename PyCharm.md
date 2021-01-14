@@ -21,3 +21,5 @@ control + /
 ```
 
 
+Find the interpretor:
+whereis python
