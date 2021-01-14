@@ -1,5 +1,7 @@
 # PyCharm IDE Shortcuts
 
+&nbsp;
+
 ### Activities:
 #### 1. Download/Remove: 
 ```console
