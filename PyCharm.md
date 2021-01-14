@@ -17,6 +17,7 @@ user@machine:~$ whereis python
 ~/anaconda/bin/python
 ```
 
+&nbsp;
 
 ### Shortcuts:
 #### 1. Delete a line: 
