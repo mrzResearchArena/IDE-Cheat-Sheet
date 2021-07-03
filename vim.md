@@ -85,9 +85,9 @@ set nu ic ai et ts=4 sw=4 hlsearch
 > [1]. [Downloading Process](https://itsfoss.com/vim-8-release-install/)
 
 #### References:
-> [*]. [Richard's](https://vim.rtorr.com/) <br/>
-> [*]. [Core/Basic Commands](https://linuxhandbook.com/basic-vim-commands/) <br/>
-> [*]. [All Commands](https://www.keycdn.com/blog/vim-commands) <br/>
-> [*]. [Chris Toomey Talk on YouTube](https://www.youtube.com/watch?v=wlR5gYd6um0) <br/>
-> [*]. [Default Parameters Setting](https://askubuntu.com/questions/264258/changing-vim-editor-settings) <br/>
-> [*]. [Downloading vim Editor](https://phoenixnap.com/kb/how-to-install-vim-ubuntu) <br/>
+> [1]. [Richard's](https://vim.rtorr.com/) <br/>
+> [2]. [Core/Basic Commands](https://linuxhandbook.com/basic-vim-commands/) <br/>
+> [3]. [All Commands](https://www.keycdn.com/blog/vim-commands) <br/>
+> [4]. [Chris Toomey Talk on YouTube](https://www.youtube.com/watch?v=wlR5gYd6um0) <br/>
+> [5]. [Default Parameters Setting](https://askubuntu.com/questions/264258/changing-vim-editor-settings) <br/>
+> [6]. [Downloading vim Editor](https://phoenixnap.com/kb/how-to-install-vim-ubuntu) <br/>
