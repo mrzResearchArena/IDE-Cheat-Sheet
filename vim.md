@@ -22,7 +22,7 @@ set nu ic ai et ts=4 sw=4 hlsearch
 
 
 ### x. Two Basic Modes:
-1. Insert Mode/Insert Text: `a` or, `i`
+1. Insert Mode/Insert Text: `a` or `i`
 1. Command Mode: `escape + : + ...`   # : --> shift + ;
  
 &nbsp;
