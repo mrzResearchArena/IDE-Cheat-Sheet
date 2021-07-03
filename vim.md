@@ -1,7 +1,5 @@
 # `vim/vi` Editor:
 
-**Note:** Essential parameters before using the **vim/vi**: `:set nu ic ai et ts=4 sw=4 hlsearch`
-
 **Note:** ~/.vimrc
 
 ```
@@ -11,20 +9,6 @@ user@machine~$: touch ~/.vimrc # If doesn't exist ~/.vimrc, then create it.
 ```
 set nu ic ai et ts=4 sw=4 hlsearch
 ```
-
-&nbsp;
-
-### x. Two Basic Modes:
-1. Insert Mode/Insert Text: `a` or, `i`
-1. Command Mode: `escape + : + ...`   # : --> shift + ;
- 
-&nbsp;
-
-### x. Open, Close, Save:
-1. Save and Quit: `:wq` (Save: `:w`, Quit: `:q`)
-1. Force Quit (without save the file): `:q!`
-
-
 &nbsp;
 
 ### x. Parameters Setting:
@@ -36,6 +20,21 @@ set nu ic ai et ts=4 sw=4 hlsearch
 1. Autometic Indentation: `:set ai`
 
 **Note:** ic --> ignore case; et --> expandtab; ts --> tabstop; sw--> shiftwidth; nu --> number
+
+&nbsp;
+
+
+
+### x. Two Basic Modes:
+1. Insert Mode/Insert Text: `a` or, `i`
+1. Command Mode: `escape + : + ...`   # : --> shift + ;
+ 
+&nbsp;
+
+### x. Open, Close, Save:
+1. Save and Quit: `:wq` (Save: `:w`, Quit: `:q`)
+1. Force Quit (without save the file): `:q!`
+
 
 &nbsp;
 
