@@ -17,6 +17,7 @@ set nu ic ai et ts=4 sw=4 hlsearch
 > Autometic Indentation: `:set ai` <br/>
   
 > **Note:** ic --> ignore case; et --> expandtab; ts --> tabstop; sw--> shiftwidth; nu --> number <br/>
+
 &nbsp;
 
 
