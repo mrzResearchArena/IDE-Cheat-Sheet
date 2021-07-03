@@ -21,10 +21,9 @@ set nu ic ai et ts=4 sw=4 hlsearch
 &nbsp;
 
 ### x. Open, Close, Save:
-1. Save: `:w`
-1. Quit: `:q`
-1. Quit by Force (without save the file): `:q!`
-1. Save and Quit: `:wq`
+1. Save and Quit: `:wq` (Save: `:w`, Quit: `:q`)
+1. Force Quit (without save the file): `:q!`
+
 
 &nbsp;
 
@@ -51,8 +50,9 @@ set nu ic ai et ts=4 sw=4 hlsearch
 ### x. Copy, Paste, Undo, Redo:
 1. Copy a (single) Line: `eacape + yy`
 1. Paste a Line: `eacape + p`
-1. Undo Text: `eacape + uu`, or `:u`
-1. Redo Text: `eacape + control + r`
+2. Cut and Paste (together): `eacape + dd` then `eacape + p`
+3. Undo Text: `eacape + uu`, or `:u`
+4. Redo Text: `eacape + control + r`
 
 &nbsp;
 
