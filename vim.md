@@ -1,6 +1,6 @@
 # `vim/vi` Editor:
 
-### vimrc Setup:
+### 1. `vimrc` Setup:
 ```
 user@machine~$: touch ~/.vimrc # If doesn't exist ~/.vimrc, then create it.
 ```
