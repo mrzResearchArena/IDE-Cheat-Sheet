@@ -21,37 +21,36 @@ set nu ic ai et ts=4 sw=4 hlsearch
 &nbsp;
 
 
-### x. Two Basic Modes:
+### 2. Two Basic Modes:
 1. Insert Mode/Insert Text: `a` or `i`
 1. Command Mode: `escape + : + ...` <br/>**Note:** `:` implies `shift +`.
  
 &nbsp;
 
-### x. Open, Close, Save:
-1. Save and Quit: `:wq` (Save: `:w`, Quit: `:q`)
-1. Force Quit (without save the file): `:q!`
-
+### 3. Open, Close, Save:
+1. Save and Quit Together: `:wq` (Only Save: `:w`, Only Quit: `:q`)
+1. Force Quit (without saving the file): `:q!`
 
 &nbsp;
 
-### x. Delete Option:
-1. Delete a Line: `eacape + dd`, or `:d`
+### 4. Delete Options:
+1. Delete a Line: `eacape + dd`
 1. Delete Till End of a Line: `eacape + d$`
 1. Delete Till Start of a Line: `eacape + d0`
 1. Delete Multile Line (in a range): `:4,8d` # Delete 4 to 8 lines
 
 &nbsp;
 
-### x. Copy, Paste, Undo, Redo:
+### 5. Copy, Paste, Undo, Redo:
 1. Copy a (single) Line: `eacape + yy`
 1. Paste a Line: `eacape + p`
-2. Cut and Paste (together): `eacape + dd` then `eacape + p`
-3. Undo Text: `eacape + uu`, or `:u`
+2. Cut and Paste Together: `eacape + dd` then `eacape + p`
+3. Undo Text: `eacape + uu`
 4. Redo Text: `eacape + control + r`
 
 &nbsp;
 
-### x. Moving Cursor:
+### 6. Moving Cursor:
 1. Go to Beginning of a File: `eacape + [[`, or `:1`, or, `:0`
 1. Go to Ending of a File: `eacape + ]]`, or, `:$`
 1. Go to a Specific Line Number: `:n` (e.g: `:5`, `:11`)
@@ -61,10 +60,11 @@ set nu ic ai et ts=4 sw=4 hlsearch
 
 &nbsp;
 
-### x. Pattern Search:
+### 7. Pattern Search:
 1. Ignore Case (Before Search): `:set ic`
-1. Search: `:/pattern` (e.g: `:/password`, `:/yes`, `:/no`)
-1. Search Text and Replace: `:%s/oldText/newText/g`
+1. Search: `:/<pattern>` (e.g., `:/password`, `:/yes`, `:/no`)
+1. Search Text and Replace: `:%s/<oldText>/<newText>/g` (e.g., `:/today/tomorrow/g`)
+2. Remove Highligh Tex`:set noh`
 
 &nbsp;
 
