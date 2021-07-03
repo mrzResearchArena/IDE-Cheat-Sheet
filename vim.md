@@ -22,7 +22,7 @@ set nu ic ai et ts=4 sw=4 hlsearch
 
 
 ### 2. Two Basic Modes:
-1. Insert Mode/Insert Text: `a` or `i`
+1. Insert Mode/Insert Text: `a`
 1. Command Mode: `escape + : + ...` <br/>**Note:** `:` implies `shift +`.
  
 &nbsp;
@@ -35,25 +35,26 @@ set nu ic ai et ts=4 sw=4 hlsearch
 
 ### 4. Delete Options:
 1. Delete a Line: `eacape + dd`
-1. Delete Till End of a Line: `eacape + d$`
-1. Delete Till Start of a Line: `eacape + d0`
-1. Delete Multile Line (in a range): `:4,8d` # Delete 4 to 8 lines
+1. Delete Till End of a Line: `eacape + d + $`
+1. Delete Till Start of a Line: `eacape + d + 0`
+1. Delete Multiple Line (in a range): `:4,8d` # Delete 4 to 8 lines
 
 &nbsp;
 
 ### 5. Copy, Paste, Undo, Redo:
-1. Copy a (single) Line: `eacape + yy`
-1. Paste a Line: `eacape + p`
-2. Cut and Paste Together: `eacape + dd` then `eacape + p`
-3. Undo Text: `eacape + uu`
-4. Redo Text: `eacape + control + r`
+1. Copy a Single Line: `eacape + yy`
+2. Copy Multiple Line (in a range): `4,8y`
+3. Paste a Line: `eacape + p`
+4. Cut and Paste Together: `eacape + dd` then `eacape + p`
+5. Undo Text: `eacape + u`
+6. Redo Text: `eacape + control + r`
 
 &nbsp;
 
 ### 6. Moving Cursor:
-1. Go to Beginning of a File: `eacape + [[`, or `:1`, or, `:0`
-1. Go to Ending of a File: `eacape + ]]`, or, `:$`
-1. Go to a Specific Line Number: `:n` (e.g: `:5`, `:11`)
+1. Go to the Specific Line Number: `:n` (e.g.,: `:5`, `:11`)
+1. Go to the Beginning of a File: `:0`, or `:1`, or `eacape + [[`
+1. Go to the Ending of a File: `:$`, or `eacape + ]]`
 
 1. Forward a Word: `eacape + w`
 1. Backword a Word: `eacape + b`
