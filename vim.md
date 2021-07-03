@@ -8,6 +8,8 @@ user@machine~$: touch ~/.vimrc # If doesn't exist ~/.vimrc, then create it.
 set nu ic ai et ts=4 sw=4 hlsearch
 ```
 
+&nbsp;
+
 #### Individual Setup (Optional):
 > Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4` <br/>
 > Line Number: `:set nu` (active) and `:set nu!` (deactive) <br/>
