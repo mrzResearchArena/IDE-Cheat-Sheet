@@ -9,12 +9,10 @@ set nu ic ai et ts=4 sw=4 hlsearch
 ```
 &nbsp;
 
-### x. Parameters Setting:
+### 2. Parameters Setting:
 1. Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4`
-1. Line Number (Set): `:set nu`
-1. Line Number (Hide): `:set nu!`
-1. Highlight Search Results (Set): `:set hlsearch`
-1. Highlight Search Results (Hide): `:set hlsearch!`
+1. Line Number: `:set nu` (Set) and `:set nu!` (Hide)
+1. Highlight Search Results: `:set hlsearch` (Set) ad `:set hlsearch!` (Hide)
 1. Autometic Indentation: `:set ai`
 
 **Note:** ic --> ignore case; et --> expandtab; ts --> tabstop; sw--> shiftwidth; nu --> number
