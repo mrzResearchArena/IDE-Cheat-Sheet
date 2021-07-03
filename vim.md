@@ -70,7 +70,7 @@ set nu ic ai et ts=4 sw=4 hlsearch
 &nbsp;
 
 ### 8. Run Programming from vi/vim:
-1. Python Script: `:!python anyName.py`
+Python Script: `:!python anyName.py`
 
 &nbsp;
 
