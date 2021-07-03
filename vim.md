@@ -1,11 +1,9 @@
 # `vim/vi` Editor:
 
-**Note:** ~/.vimrc
-
+### vimrc Setup:
 ```
 user@machine~$: touch ~/.vimrc # If doesn't exist ~/.vimrc, then create it.
 ```
-
 ```
 set nu ic ai et ts=4 sw=4 hlsearch
 ```
