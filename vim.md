@@ -28,7 +28,7 @@ set nu ic ai et ts=4 sw=4 hlsearch
 &nbsp;
 
 ### 3. Open, Close, Save:
-1. Save and Quit Together: `:wq` (Only Save: `:w`, Only Quit: `:q`)
+1. Save and Quit Together: `:x`, or `:wq` (Only Save: `:w`, Only Quit: `:q`)
 1. Force Quit (without saving the file): `:q!`
 
 &nbsp;
