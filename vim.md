@@ -63,12 +63,12 @@ set nu ic ai et ts=4 sw=4 hlsearch
 ### 7. Pattern Search:
 1. Ignore Case (Before Search): `:set ic`
 1. Search: `:/<pattern>` (e.g., `:/password`, `:/yes`, `:/no`)
-1. Search Text and Replace: `:%s/<oldText>/<newText>/g` (e.g., `:/today/tomorrow/g`)
-2. Remove Highligh Tex`:set noh`
+1. Search Text and Replace: `:%s/<oldText>/<newText>/g` (e.g., `:%s/today/tomorrow/g`)
+2. Remove Highligh Text: `:noh`
 
 &nbsp;
 
-### x. Run Programming from vi/vim:
+### 8. Run Programming from vi/vim:
 1. Python Script: `:!python anyName.py`
 
 &nbsp;
