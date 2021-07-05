@@ -23,7 +23,12 @@ set nu ic ai et ts=4 sw=4 hlsearch
 
 ### 2. Two Basic Modes:
 1. Insert Mode/Insert Text: `a`
-1. Command Mode: `escape + : + ...` <br/>**Note:** `:` implies `shift +`.
+1. Command Mode: `escape + : + <command>` <br/>**Note:** `:` implies `shift +`.
+
+> **Note-1:** Write `:` by using `escape + shift + :`. <br/>
+> **Note-2:** Write any command by using `escape` first. <br/>
+> **Note-3:** The `+` sign denotes `press one after another button`. (e.g., `eacape + p` means press the `ESC` button and then `p`.) <br/>
+
  
 &nbsp;
 
@@ -75,11 +80,6 @@ set nu ic ai et ts=4 sw=4 hlsearch
 &nbsp;
 
 ### End Notes:
-> **Note-1:** Write `:` by using `escape + shift + :`. <br/>
-> **Note-2:** Write any command by using `escape` first. <br/>
-> **Note-3:** The `+` sign denotes `press one after another button`, e.g. `eacape + p` means press the `Esc` button and then `p`. <br/>
-
-&nbsp;
 
 #### Download the vim on Ubuntu:
 > [1]. [Downloading Process](https://itsfoss.com/vim-8-release-install/)
