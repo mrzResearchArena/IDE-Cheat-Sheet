@@ -22,14 +22,14 @@ set nu ic ai et ts=4 sw=4 hlsearch
 
 
 ### 2. Two Basic Modes:
-1. Insert Mode/Insert Text: `a`
-1. Command Mode: `escape + : + <command>` <br/>**Note:** `:` implies `shift +`.
+1. Insert Mode/Insert Text: `a`, or `o`
+1. Command Mode: `escape + : + <command>`
 
-> **Note-1:** Write `:` by using `escape + shift + :`. <br/>
-> **Note-2:** Write any command by using `escape` first. <br/>
-> **Note-3:** The `+` sign denotes `press one after another button`. (e.g., `eacape + p` means press the `ESC` button and then `p`.) <br/>
+> **Note-1:** `:` implies `shift +`.
+> **Note-2:** Write `:` by using `escape + shift + :`. <br/>
+> **Note-3:** Write any command by using `escape` first. <br/>
+> **Note-4:** The `+` sign denotes `press one after another button`. (e.g., `eacape + p` means press the `ESC` button and then `p`.) <br/>
 
- 
 &nbsp;
 
 ### 3. Open, Close, Save:
