@@ -25,7 +25,7 @@ set nu ic ai et ts=4 sw=4 hlsearch
 1. Insert Mode/Insert Text: `a`, or `o`
 1. Command Mode: `escape + : + <command>`
 
-> **Note-1:** `:` implies `shift +`.
+> **Note-1:** `:` implies `shift +`. <br/>
 > **Note-2:** Write `:` by using `escape + shift + :`. <br/>
 > **Note-3:** Write any command by using `escape` first. <br/>
 > **Note-4:** The `+` sign denotes `press one after another button`. (e.g., `eacape + p` means press the `ESC` button and then `p`.) <br/>
