@@ -11,11 +11,11 @@ set nu ic ai et ts=4 sw=4 hlsearch
 &nbsp;
 
 #### Individual Setup (Optional):
-> Set Tab Space/Shift Wifth to 4: `:set ts=4 sw=4` <br/>
-> Line Number: `:set nu` (active) and `:set nu!` (deactive) <br/>
-> Highlight Search Results: `:set hlsearch` (active) and `:set hlsearch!` (deactive) <br/>
-> Autometic Indentation: `:set ai` <br/>
-  
+> Set Line Number: `:set nu` (active) and `:set nu!` (deactive) <br/>
+> Set `Tab Space (ts)` and `Shift Wifth (sw)` to 4: `:set ts=4 sw=4` <br/>
+> Set Autometic Indentation: `:set ai` <br/>
+> Set Highlight Search Results: `:set hlsearch` (active) and `:set hlsearch!` (deactive) <br/>
+
 > **Note:** ic --> ignore case; et --> expandtab; ts --> tabstop; sw--> shiftwidth; nu --> number <br/>
 
 &nbsp;
