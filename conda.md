@@ -19,6 +19,7 @@
 ```console
 user@machine:~$ conda activate                 -->    ### activate
 (base) mrz@rafsanjani:~$ conda deactivate      -->    ### deactivate
+user@machine:~$ conda activate deep            -->    ### activate a specific environment
 ```
 
 &nbsp;
