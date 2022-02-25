@@ -4,5 +4,5 @@
 
 
 ```console
-(Renv) user@machine:~$ conda install rstudio   # Usally, I use Jupyter Notebook!
+(anyName) user@machine:~$ conda install rstudio   # Usally, I use Jupyter Notebook!
 ```
