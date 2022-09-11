@@ -26,7 +26,12 @@ shift + enter        (Execute the current cell and point cursor to the next cell
 %reset
 ```
 
-#### 7. Keep Default Layout
+#### 7. Separate as a cell
+```console
+#%%
+```
+
+#### 8. Keep Default Layout
 ```console
 Layouts: View -> Windows layouts -> Default
 ```
