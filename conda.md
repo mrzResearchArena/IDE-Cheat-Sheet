@@ -4,6 +4,7 @@
   ```console
   user@machine:~$ sha256sum anyName.bash
   user@machine:~$ md5sum    anyName.bash
+  user@machine:~$ [[ "string1" == "string2" ]] && echo "Matched" || echo "Mismatched!"
   ```
 - ##### Step 3: Install
   ```console
