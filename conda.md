@@ -27,8 +27,7 @@ user@machine:~$ conda activate deep            -->    ### activate a specific en
 
 #### 2. View all environment
 ```console
-user@machine:~$ conda env list
-user@machine:~$ conda info --envs
+user@machine:~$ conda env list   #alternative way: conda info --envs
 
 # conda environments:
 #
